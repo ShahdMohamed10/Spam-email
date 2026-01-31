@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 
 This project builds a machine learning model to classify emails as Spam or Not Spam using classical NLP techniques and supervised learning algorithms.
 The goal is to compare different models and understand why some perform better on text data.
