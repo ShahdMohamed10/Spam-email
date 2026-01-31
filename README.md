@@ -19,10 +19,10 @@ Logistic Regression
 
 Multinomial Naive Bayes
 
-#Observation:
+## Observation:
 Multinomial Naive Bayes slightly outperformed Logistic Regression, which is expected since it is well-suited for sparse word-frequency features commonly used in text classification tasks like spam detection.
 
-##Dataset
+## Dataset
 
 Email dataset labeled as Spam or Ham (Not Spam)
 
@@ -46,7 +46,7 @@ Feature extraction using:
 
 Bag of Words (BoW) / TF-IDF (depending on your notebook)
 
-##Model Evaluation
+## Model Evaluation
 
 The models were evaluated using standard classification metrics:
 
@@ -60,10 +60,10 @@ F1-score
 
 Confusion Matrix
 
-##Key Insight:
+## Key Insight:
 Multinomial Naive Bayes performs better because it naturally models word frequency distributions and handles sparse, high-dimensional text data efficiently.
 
-##Technologies Used
+## Technologies Used
 
 Python
 
