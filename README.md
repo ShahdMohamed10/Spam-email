@@ -28,7 +28,7 @@ Email dataset labeled as Spam or Ham (Not Spam)
 
 The dataset contains raw email text used for training and testing
 
-(Dataset source can be added here if public)
+Dataset link : https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset/data
 
 ##Text Preprocessing
 
